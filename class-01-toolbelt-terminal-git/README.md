@@ -1,23 +1,22 @@
 # Class 1: Introduction to the Tools and Fundamentals of Development
 
 <a id="top"></a>
-# Today's Plan: Week 1, Monday Lecture
+# Class 1 Plan:Lecture  
 
-This first day of class is an all-day session with the students that is mostly lecture.
+- [Kickoff! (with slides)](#kickoff) *[60 minutes]*
+- [Academic Overview (with slides)](#academic) *[45 minutes]*
+- [Set up a JavaScript linter](#linter) *[30 minutes]*
+- [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
 
-- [Kickoff! (with slides)](#kickoff) *[30 minutes]*
-- [Academic Overview (with slides)](#academic) *[60 minutes]*
+> The above will take the entire duration of night 1. This means that students should expect to have lecture continue on night 2 leading into their first lab assignment.  
+
+# Class 1(pt.2): Lecture  
+
 - [Unix & Git (with slides)](#ug) *[60 minutes]*
 - [Go over the assigned readings](#readings) *[30 minutes]*
-
-*Lunch Break*
-
-- [Continuing going over the assigned readings](#readings) *[30-60 minutes]*
 - [Code demo to prep for lab](#code) *[60 minutes]*
-- [LAB](#lab) *[until 5:00]*
+- [LAB](#lab) *[until 9:30]*
   - Write code as outlined in the lab assignment
-  - [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
-  - [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
 
 **Learning Objectives**
 
@@ -37,16 +36,14 @@ As a result of completing Class 1 of Code 201, students will be able to:
 - JS Chatper 1: "The ABC of Programming"
 
 <a id="kickoff"></a>
-## Kickoff!
-
-[Slides: 1-first-day-orientation.pdf](slides/1-first-day-orientation.pdf)
+## Kickoff!  
 
 This is the welcome and introduction to Code Fellows. Students will meet the campus manager and learn about campus operations and policies.
 
 [-top-](#top)
 
 <a id="academic"></a>
-## Academic Overview
+## Academic Overview  
 
 [Slides: 2-academic-overview.pdf](slides/2-academic-overview.pdf)
 
@@ -67,6 +64,9 @@ By doing a few quick tests and exercises, as detailed below, ensure that student
 [-top-](#top)
 
 <a id="ug"></a>
+
+# Class 1(pt. 2)  
+
 ## Unix & Git
 
 [Slides: 3-unix.pdf](slides/3-unix.pdf)
@@ -77,14 +77,8 @@ Slides to introduce students to core concepts of file management from the comman
 
 [-top-](#top)
 
-<a id="linter"></a>
-## Set up a JavaScript linter
-Have students go to the command line and `apm install linter-eslint`. Have them open a new tab in their terminal ( which also shows them that this is something they can do!) and cd to their home directory. Then `atom .eslintrc` in their home directory and copypasta the contents of the .eslintrc file (send it through the class Slack channel, which is a nice verification of that functionality). Then go into the package settings in Atom and make sure that it is looking for that .eslintrc
-
-[-top-](#top)
-
 <a id="readings"></a>
-## Go over the assigned readings
+## Key Concepts and Topics from the Reading  
 
 **HTML Chapter 1: "Structure"**
 
