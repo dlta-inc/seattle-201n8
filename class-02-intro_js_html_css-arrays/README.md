@@ -3,24 +3,26 @@
 <a id="top"></a>
 # Today's Plan: Week 1, Tuesday Lecture
 
-#### Quiz 1 will be published this afternoon. It will be due at 11:59pm tomorrow night (late Wednesday)
+#### Quiz 1 will be published tonight. It will be due at 11:59pm tomorrow night (late Thursday)
 
 #### Class Roadmap for Today
 
+- [Git Branches]() *[45 minutes]*
+
 - [Topics from HTML readings](#html) *[15 minutes]*
-- [Topics from CSS readings](#css) *[30 minutes]*
-- [Topics from JS readings](#js) *[45 minutes]*
+- [Topics from CSS readings](#css) *[15 minutes]*
+- [Topics from JS readings](#js) *[30 minutes]*
 - *15 minute break*
 
-- [Review lab assignment, code demo, `git clone`](#code) *[45 minutes]*
+- [Review lab assignment, code demo, `git clone`](#code) *[60 minutes]*
 
 #### Announcements:
- - Quiz 1 will be published at the end of lab this afternoon, and it will be due by 11:59pm Wednesday. We will go over it on Thursday. More about quizzes:
- 	- Note that there will be some quiz content from time to time that we may not have covered yet for instance something on the quiz published today that we do not cover until tomorrow.
+ - Quiz 1 will be published at the end of class tonight, and it will be due by 11:59pm Thursday. We will go over it on Tuesday morning. More about quizzes:
+ 	- Note that there will be some quiz content from time to time that we may not have covered yet for instance something on the quiz published today that we do not cover until the next class.
  	- Keep in mind that you have unlimited re-takes on the quizzes, and also that the quizzes are designed to be treated like they are open-book. It's more about what you can figure out than what you have memorized.
 	- Also, note that the quizzes have two main purposes:
   			1. To get you to re-engage with the content in a different way, reinforcing your knowledge.
-  			2. To help you prepare for the Code 301 entrance exam, which you will take at the end of Week 3. There is a minimum threshold you must pass on that exam (70%), and also, that exam factors into your grade in this class.
+  			2. To help you prepare for the Code 301 entrance exam, which you will take at the end of Week 6. There is a minimum threshold you must pass on that exam (70%), and also, that exam factors into your grade **in this class**.
 
 - There will be lots of detail work today on JS and CSS. We're going forward with the expectation that you will need minimal instruction on HTML except for concepts and overview of practices, and the specifics of how to interface with JS and CSS.
 
@@ -28,12 +30,12 @@
 
 - The reasons for going over the JS and CSS chapters in so much detail this morning, even though they do overlap with the pre-work quite a bit:
   1. Not everyone got the same amount of benefit/knowledge from completing pre-work.
-  2. There are gaps, and omissions, and depth of the subject matter that need to be addressed.
+  2. There are gaps, omissions, and depth of the subject matter that need to be addressed.
   3. We're focusing on translating into "how we use this" and getting practice in applying this material within our new IDE (Integrated Development Environment) of Atom, Chrome, and the terminal.
 
 ### **Objectives**
 
-As a result of completing Day 2 of Code 201, students will:
+As a result of completing Class 2 lab of Code 201, students will:
 
 - Demonstrate understanding of the fundamental structures of HTML, including `<DOCTYPE>`, `<head>`, `<title>`, `<body>`, and `<script>`, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
 - Demonstrate understanding of and make use of assorted data types such as booleans, strings, integers, floats in JavaScript, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
@@ -45,7 +47,7 @@ As a result of completing Day 2 of Code 201, students will:
 - HTML Chapter 2: "Text"
 - HTML Chapter 17: "HTML5 Layout"
 - HTML/CSS Chapter 10: "Introducing CSS"
-- JS Chatper 1: "The ABC of Programming"- HTML/CSS Chapter 2: "Text"
+- JS Chatper 1: "The ABC of Programming"
 - JS Chapter 2: "Basic JavaScript Instructions"
 
 [-top-](#top)
