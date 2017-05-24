@@ -19,7 +19,7 @@ Code demos used and/or created in class each day will be placed in to that day's
 
 ## Assignments
 
-Lab-time code assignments follow each class time. You can find these assignments in the `lab` subdirectories of each class directory. Assignment content will vary from day to day, depending on the topic. Some of the lab assignments will be pair programming assignments.
+Lab-time code assignments follow each class time. You can find these assignments in the `lab` markdown files of each class directory. Assignment content will vary from day to day, depending on the topic. **Some of the lab assignments will be pair programming assignments.**
 
 Instructions for completing and submitting the assignments can be found in the README files of the appropriate subdirectories.
 
