@@ -4,8 +4,6 @@
 
 - Note that as we progress through the week, new user stories will be added to the "About Me" project to guide the development of new features.
 
-- There is an example of the Learning Journal in another directory in this daily class directory. Take a look and use it as a guide and as inspiration.
-
 ### User Stories for "About Me" (MVP)
 
 ("MVP" = "Minimum Viable Product" which is the most basic successful functionality of our project. Extensions, added features, and other enhancements fall under the category of "Stretch Goals.")
