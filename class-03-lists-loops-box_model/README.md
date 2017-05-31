@@ -40,9 +40,7 @@ As a result of completing Day 3 of Code 201, students will:
 [-top-](#top)
 
 <a id="control"></a>
-## JS Control Flow
-
-1. Include pseudocode
+## JS Control Flow  
 
 **JS Chapter 4: "Decisions & Loops"**
 
