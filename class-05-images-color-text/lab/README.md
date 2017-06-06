@@ -31,7 +31,7 @@ Submission instructions are in the Canvas assignment.
 
 ### Deployment of Guessing Game
 
-We'll be deploying our finished About Me projects to GitHub Pages. Feel free to work on this with your partner or by yourself. This will make them real, live websites that people can visit. The process is simple:
+We'll be deploying our finished About Me projects to GitHub Pages. Feel free to work on this with your classmates or by yourself. This will make them real, live websites that people can visit. The process is simple:
 
 - Finish all technical requirements and any other tweaks you want to make.
 - Add-commit-push your working branch.
