@@ -11,7 +11,7 @@ Test this function by hand in the console to get it working, and when you think 
 // Here is the test for sum(); uncomment it to run it
 testSum(4, 7);
 
-// Once you get the test passing, do an a-c-p cycle, synchronize the code between both GitHubs and both laptops, and swap Driver/Navigator roles. Don't forget to create a new branch for your work on the next question!
+// Once you get the test passing, do an a-c-p cycle.
 
 /////////////////////////////////////
 /* Problem 2
@@ -26,7 +26,7 @@ Test this function by hand in the console to get it working, and when you think 
 // Here is the test for multiply(); uncomment it to run it
 testMultiply(4,7);
 
-// Once you get the test passing, do an a-c-p cycle, synchronize the code between both GitHubs and both laptops, and swap Driver/Navigator roles. Don't forget to create a new branch for your work on the next question!
+// Once you get the test passing, do an a-c-p cycle.
 
 /////////////////////////////////////
 /* Problem 3
@@ -42,7 +42,7 @@ Test this function by hand in the console to get it working, and when you think 
 // Here is the test for sumAndMultiply(); uncomment it to run it
 testSumAndMultiply(4,7,5);
 
-// Once you get the test passing, do an a-c-p cycle, synchronize the code between both GitHubs and both laptops, and swap Driver/Navigator roles. don't forget to create a new branch for your work on the next question!
+// Once you get the test passing, do an a-c-p cycle.
 
 /////////////////////////////////////
 /* Problem 4
@@ -58,7 +58,7 @@ testArray = [2,3,4];
 // Here is the test for sumArray(); uncomment it to run it
 testSumArray(testArray);
 
-// Once you get the test passing, do an a-c-p cycle, synchronize the code between both GitHubs and both laptops, and swap Driver/Navigator roles. Don't forget to create a new branch for your work on the next question!
+// Once you get the test passing, do an a-c-p cycle.
 
 /////////////////////////////////////
 /* Problem 5
@@ -73,7 +73,7 @@ Test this function by hand in the console to get it working, and when you think 
 // Here is the test for multiplyArray(); uncomment it to run it
 testMultiplyArray(testArray);
 
-// Once you get the test passing, do an a-c-p cycle, synchronize the code between both GitHubs and both laptops, and swap Driver/Navigator roles. Submit the link to the repo via Canvas.
+// Once you get the test passing, do an a-c-p cycle.
 
 /////////////////////////////////////
 /////////////////////////////////////
