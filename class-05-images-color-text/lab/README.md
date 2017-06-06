@@ -18,10 +18,11 @@ Here are a couple of things to keep in mind:
 
 1. Create the repo
 2. Clone the repo
-5. Copy/Paste starter code from this directory
-6. Work on the code problems specified in comments of `app.js`
-7. acp
-8. Make Pull Request (PR)
+3. Create a new branch called `class-5-lab`
+4. Copy/Paste starter code from this directory
+5. Work on the code problems specified in comments of `app.js`
+6. acp
+7. Make Pull Request (PR)
 
 ---
 ### HTML and JS setup
