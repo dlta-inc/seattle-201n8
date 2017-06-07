@@ -30,7 +30,7 @@ You are being given starter code for today in the index.html and app.js files in
 
 Submission instructions are in the Canvas assignment.
 
-### Deployment of Guessing Game
+### Deployment of About-Me
 
 We'll be deploying our finished About Me projects to GitHub Pages. Feel free to work on this with your classmates or by yourself. This will make them real, live websites that people can visit. The process is simple:
 
