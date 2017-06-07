@@ -17,7 +17,7 @@ Here are a couple of things to keep in mind:
 ### Create, fork, and clone a new GitHub repo named class-05-lab
 
 1. Create a new repo
-2. Clone the repo to your local machine in the `~codefellows/201` directory.
+2. Clone the repo to your local machine in the `~/codefellows/201` directory.
 3. Create a new branch called `class-5-lab`
 4. Copy/Paste starter code from this directory
 5. Work on the code problems specified in comments of `app.js`
