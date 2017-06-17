@@ -2,7 +2,7 @@
 
 **Today's work is done indivdual.**
 
-Today's working branch will be `thursday-layouts`.
+Today's working branch will be `class-9-layouts`.
 
 ## Instructions
 
