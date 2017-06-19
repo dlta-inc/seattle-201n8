@@ -1,6 +1,6 @@
 # Assignment Overview: Lab for Class 10 - From Concept to Code
 
-## DUE:  Monday Evening @ 6:30pm
+## DUE:  Next Monday Evening @ 6:30pm
 
 ## Chocolate Pizza: Create a webpage from a provided design comp
 
