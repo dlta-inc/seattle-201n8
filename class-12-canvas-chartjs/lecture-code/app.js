@@ -4,13 +4,13 @@ var context = document.getElementById('my-chart').getContext('2d');
 
 var dataSet = [12, 6, 24, 5, 3, 9];
 var itemNames = ['clock', 'watch', 'bigfoot', 'apple', 'TV', 'Blingy Red Shoes'];
-var chartColors = ['black', 'silver', 'brown', 'green', 'blue', 'red'];
+var chartColors = ['black', 'white', 'brown', 'green', 'blue', 'red'];
 
 var myChart = new Chart(context, {
   type: 'bar',
   data: {
     labels: itemNames,
-    dataSets: [{
+    datasets: [{
       label: '# of Votes',
       data: dataSet,
       backgroundColor: chartColors
@@ -26,32 +26,32 @@ var myChart = new Chart(context, {
     }
   }
 });
-
-var dataObject =  {
-  labels: itemNames,
-  dataSets: [{
-    label: '# of Votes',
-    data: dataSet,
-    backgroundColor: chartColors
-  }]
-};
-
-var chartOptions = {
-  scales: {
-    yAxes: [{
-      ticks: {
-        beginAtZero: true
-      }
-    }]
-  }
-};
-
-
-var myChart = new Chart(context, {
-  type: 'bar',
-  data: dataObject,
-  options: chartOptions
-});
+// 
+// var dataObject =  {
+//   labels: itemNames,
+//   dataSets: [{
+//     label: '# of Votes',
+//     data: dataSet,
+//     backgroundColor: chartColors
+//   }]
+// };
+// 
+// var chartOptions = {
+//   scales: {
+//     yAxes: [{
+//       ticks: {
+//         beginAtZero: true
+//       }
+//     }]
+//   }
+// };
+// 
+// 
+// var myChart = new Chart(context, {
+//   type: 'bar',
+//   data: dataObject,
+//   options: chartOptions
+// });
 
 
 function Dog(name, breed, color){
