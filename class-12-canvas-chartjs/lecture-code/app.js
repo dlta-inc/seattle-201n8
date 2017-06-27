@@ -1,6 +1,9 @@
 'use strict';
 
+document.getElementById('my-chart').width = 50;
+
 var context = document.getElementById('my-chart').getContext('2d');
+
 
 var dataSet = [12, 6, 24, 5, 3, 9];
 var itemNames = ['clock', 'watch', 'bigfoot', 'apple', 'TV', 'Blingy Red Shoes'];

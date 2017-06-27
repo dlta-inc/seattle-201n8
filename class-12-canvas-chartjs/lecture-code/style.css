@@ -1,4 +1,4 @@
-canvas {
-  width: 75%;
-  height: 400px;
+#chart-div {
+  width: 50%;
+  min-width: 400px;
 }
