@@ -1,7 +1,5 @@
 'use strict';
 
-document.getElementById('my-chart').width = 50;
-
 var context = document.getElementById('my-chart').getContext('2d');
 
 
