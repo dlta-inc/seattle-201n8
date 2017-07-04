@@ -1,0 +1,27 @@
+#chart-div {
+  width: 50%;
+  min-width: 750px;
+}
+
+.animation-box {
+  border: 0;
+  width: 400px;
+  height: 400px;
+  background: #2db34a;
+  transition: background 0.25s linear, width 0.4s ease-in-out;
+}
+
+.animation-box:hover{
+  background: #ff7b29;
+  width: 600px;
+}
+
+.animation-box:active {
+  width: 1000px;
+}
+
+
+
+
+
+
